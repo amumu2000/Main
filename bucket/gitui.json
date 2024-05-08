@@ -1,10 +1,10 @@
 {
-    "version": "0.25.1",
+    "version": "0.26.1",
     "description": "Terminal client for Git",
     "homepage": "https://github.com/extrawurst/gitui",
     "license": "MIT",
-    "url": "https://github.com/extrawurst/gitui/releases/download/v0.25.1/gitui-win.tar.gz",
-    "hash": "005ddba2dd226bfcf05a8798e29f27e8d68198f4b7f92737e74f320fb4a63c71",
+    "url": "https://github.com/extrawurst/gitui/releases/download/v0.26.1/gitui-win.tar.gz",
+    "hash": "f330cd64c8cb687940cc6ad6e1b7cb7480b7fdbe996a9144edce97eb6a9e1eb9",
     "bin": "gitui.exe",
     "checkver": "github",
     "autoupdate": {

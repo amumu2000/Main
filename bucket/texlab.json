@@ -1,12 +1,12 @@
 {
-    "version": "5.13.0",
+    "version": "5.16.0",
     "description": "Language Server Protocol for LaTeX",
     "homepage": "https://texlab.netlify.com",
     "license": "GPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/latex-lsp/texlab/releases/download/v5.13.0/texlab-x86_64-windows.zip",
-            "hash": "fc0705d66a6d153701c7f6a4790e0ccf0d63adc11cb55f44238dde9be0ac14d0"
+            "url": "https://github.com/latex-lsp/texlab/releases/download/v5.16.0/texlab-x86_64-windows.zip",
+            "hash": "af0575e237aef42951d94903c5d19cdd79ec9b9d85b3be1d5268bdb336285fbc"
         }
     },
     "bin": "texlab.exe",
